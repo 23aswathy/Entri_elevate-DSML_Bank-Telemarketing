@@ -1,0 +1,1 @@
+This project aims to predict the success of bank telemarketing campaigns of a Portuguese Bank by analyzing a dataset of customer information and campaign history.The data is modelled and the best model is chosen that gives maximum accuracy and precision.
